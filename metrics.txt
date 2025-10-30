@@ -1,2 +1,3 @@
-"name": "Bob", "age": 35, "country": "USA", "salary": 4500
-"name": "Alice", "age": 28, "country": "UK", "salary": 3200
+name:Unathi,surname:Nxasana,AGE:58
+name:BERLIN,surname:MATHISA,AGE:58
+name:NJABULO,surname:NGIDI,AGE:13
