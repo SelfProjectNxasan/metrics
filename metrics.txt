@@ -1,3 +1,3 @@
-name:Unathi,surname:Nxasana,AGE:58
-name:BERLIN,surname:MATHISA,AGE:58
-name:NJABULO,surname:NGIDI,AGE:13
+name:Q,surname:MANQOBA,AGE:3
+name:BOOM,surname:BAMM,AGE:32
+name:SASH,surname:LLL,AGE:14
