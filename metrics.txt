@@ -1,0 +1,2 @@
+"name": "Bob", "age": 35, "country": "USA", "salary": 4500
+"name": "Alice", "age": 28, "country": "UK", "salary": 3200
