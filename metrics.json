@@ -1,0 +1,12 @@
+{
+  "name": "Alice Johnson",
+  "age": 29,
+  "email": "alice.johnson@example.com",
+  "isStudent": false,
+  "skills": ["JavaScript", "Python", "HTML", "CSS"],
+  "address": {
+    "street": "123 Maple Street",
+    "city": "Springfield",
+    "country": "USA"
+  }
+}
